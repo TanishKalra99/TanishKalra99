@@ -10,7 +10,7 @@ I work with data to identify trends, validate information, build reporting solut
 
 **Data & Querying:** SQL, MySQL, Oracle SQL, PL/SQL  
 **Business Intelligence:** Power BI, DAX, Power Query  
-**Analytics:** Excel, Python, Pandas, NumPy  
+**Analytics:** Excel, Python
 **Business Analysis:** Requirements Gathering, Data Validation, Root Cause Analysis, Stakeholder Management  
 **Domain:** Regulatory Reporting, Financial Services, Customer Operations
 
