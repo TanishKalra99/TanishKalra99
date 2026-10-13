@@ -50,6 +50,21 @@ Interactive Power BI dashboard covering:
 
 ➡️ [View Power BI Project](https://github.com/TanishKalra99/Retail-Sales-PowerBI-Dashboard)
 
+### ⚡ VoltRoute — EV Charging Network Analytics | Advanced Excel & Power Query
+
+Developed an interactive Excel dashboard to analyse EV charging
+performance and data quality across 1,000 charging records.
+
+- Cleaned and validated data using Power Query.
+- Identified 46 data-quality exceptions (4.6%).
+- Analysed 954 valid charging sessions across 8 cities.
+- Built interactive KPI cards, PivotCharts and City slicers.
+- Calculated an 81.03% session completion rate.
+- Analysed monthly charging trends and energy consumption.
+- Applied XLOOKUP, COUNTIFS, SUMIFS and GETPIVOTDATA.
+
+📊 [View VoltRoute Analytics Project](https://github.com/TanishKalra99/VoltRoute-EV-Charging-Analytics)
+
 ## 🎓 Education
 
 **MSc Business Analytics**  
